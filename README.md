@@ -52,7 +52,7 @@ Requires JWT in `Authorization` header:
 ## Request/Response Examples
 
 **Register User**
-```http
+http
 POST /auth/register
 Content-Type: application/json
 
@@ -85,5 +85,7 @@ Screen shorts:
 <img width="1356" height="585" alt="LoginPage" src="https://github.com/user-attachments/assets/dc611cac-cb09-4a77-9790-6c86f177006c" />
 <img width="1343" height="682" alt="LandingPage" src="https://github.com/user-attachments/assets/8d2cdb43-8cda-49c9-af48-6dfd0d39a963" />
 <img width="1365" height="475" alt="Filter" src="https://github.com/user-attachments/assets/8f93989b-067c-4cfd-a582-6a7d9dbad1ac" />
+
+
 
 
