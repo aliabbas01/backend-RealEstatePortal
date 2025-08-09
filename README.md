@@ -76,3 +76,14 @@ appsetting.json
     "ContainerName": "property-images"
   }
 }
+
+
+Screen shorts:
+<img width="1357" height="680" alt="Favorite_Buyer" src="https://github.com/user-attachments/assets/46fd4836-c259-4360-9e54-80bd3afb65a7" />
+<img width="1360" height="669" alt="DetailPage" src="https://github.com/user-attachments/assets/37c1e48c-6d30-4a7e-875c-faae58a1ea46" />
+<img width="1362" height="540" alt="Register" src="https://github.com/user-attachments/assets/723987a9-3d1b-4525-adb8-71c516de82e3" />
+<img width="1356" height="585" alt="LoginPage" src="https://github.com/user-attachments/assets/dc611cac-cb09-4a77-9790-6c86f177006c" />
+<img width="1343" height="682" alt="LandingPage" src="https://github.com/user-attachments/assets/8d2cdb43-8cda-49c9-af48-6dfd0d39a963" />
+<img width="1365" height="475" alt="Filter" src="https://github.com/user-attachments/assets/8f93989b-067c-4cfd-a582-6a7d9dbad1ac" />
+
+
